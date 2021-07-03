@@ -166,7 +166,7 @@ button:hover{
 /*+++++++++++++++++++++++ HOME +++++++++++++++++++++++*/
 .home {
   color: white;
-  background: url("./imgs/forest-1.jpg") no-repeat center;
+  background: url(../imgs/forest-1.jpg) no-repeat center;
   background-size: cover;
   width: 100%;
   height: auto; 
@@ -198,7 +198,7 @@ ul li{
 }
 
 .home_desc{
-  padding: 9em 0;
+  padding: 9em 0 ;
   width:60%;
   text-align: center;
   margin: 0% auto; 
@@ -288,7 +288,7 @@ ul li{
 
 /* ++++++++++++++++ SERVICE +++++++++++++ */
 .service{
-  background: url("./imgs/forest-2.jpg") no-repeat center;
+  background: url("../imgs/forest-2.jpg") no-repeat center;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -384,7 +384,7 @@ ul li{
 /* +++++++++++++++++++++++++ PLANS +++++++++++++++++++++++++*/
 
 .plans{
-  background: url("./imgs/forest-3.jpg") no-repeat center;
+  background: url("../imgs/forest-3.jpg") no-repeat center;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -475,7 +475,7 @@ ul li{
 
 /*+++++++++++++++++++++++ BLOG +++++++++++++++++++++++*/
 .blog{
-  background: url("./imgs/forest-4.jpg") no-repeat;
+  background: url("../imgs/forest-4.jpg") no-repeat;
   background-size: cover;
   width: 100%;
   height: auto;
